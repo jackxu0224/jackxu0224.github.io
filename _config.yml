@@ -5,15 +5,15 @@ author: JACK XU
 email: jackxu0224#163.com
 description: "JACK XU – 我" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "JACK XU – 我"
-baseurl: "/jxtest.github.io" # the subpath of your site, e.g. /blog/
-url: "http://xujianian.com/jxtest.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://xujianian.com" # the base hostname & protocol for your site
 locale: zh_CN
 
 ### Personal info and site tools info:
 twitter_username: jackxu0224
 github_username:  jackxu0224
 disqus_shortname: jackxu0224
-favicon:     "/images/favicon.ico"
+favicon:     "/favicon.png"
 aboutme: Hi, this is Jack Xu. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4dddszJl.jpg # your photo.
 google_analytics_key: UA-1 # put YOUR key here to enable tracking! (blank to disable)
